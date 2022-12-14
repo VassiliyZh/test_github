@@ -1,0 +1,15 @@
+C:\hp\Explores\explore001\bin\Debug\net6.0\explore001.exe
+C:\hp\Explores\explore001\bin\Debug\net6.0\explore001.deps.json
+C:\hp\Explores\explore001\bin\Debug\net6.0\explore001.runtimeconfig.json
+C:\hp\Explores\explore001\bin\Debug\net6.0\explore001.dll
+C:\hp\Explores\explore001\bin\Debug\net6.0\explore001.pdb
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.csproj.AssemblyReference.cache
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.GeneratedMSBuildEditorConfig.editorconfig
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.AssemblyInfoInputs.cache
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.AssemblyInfo.cs
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.csproj.CoreCompileInputs.cache
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.dll
+C:\hp\Explores\explore001\obj\Debug\net6.0\refint\explore001.dll
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.pdb
+C:\hp\Explores\explore001\obj\Debug\net6.0\explore001.genruntimeconfig.cache
+C:\hp\Explores\explore001\obj\Debug\net6.0\ref\explore001.dll
